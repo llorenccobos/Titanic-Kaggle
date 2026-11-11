@@ -32,7 +32,7 @@ Las diferencias entre los mejores modelos son menores que la desviación entre f
 ## Cómo ejecutarlo
 
 ```bash
-git clone https://github.com/<usuario>/titanic-kaggle.git
+git clone https://github.com/llorenccobos/titanic-kaggle.git
 cd titanic-kaggle
 python -m venv .venv
 source .venv/bin/activate        # En Windows: .venv\Scripts\activate
